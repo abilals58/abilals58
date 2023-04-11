@@ -13,7 +13,6 @@ Ahmet </a></h1>
 - 🌱 I’m currently working on a mobile application which provides a question-share portal within the university students. 
 
 - 📄 Know about my experiences <a href="https://github.com/abilals58/Resume/blob/main/Ahmet_Yildiz_CV.pdf" target="blank">Resume</a>
-<br/>
 
 <h2 align="center"> ⚡Projects⚡</h2>
 
